@@ -140,9 +140,6 @@ float tinhGiaTri(char st[]){
 		}		
 	}
 }
-void test(){
-	//nothing
-}
 
 
 int main(){
