@@ -142,6 +142,7 @@ float tinhGiaTri(char st[]){
 }
 //do
 void test(){
+	int i;
 }
 
 int main(){
