@@ -140,7 +140,9 @@ float tinhGiaTri(char st[]){
 		}		
 	}
 }
-
+//do
+void test(){
+}
 
 int main(){
 NganXep S;
